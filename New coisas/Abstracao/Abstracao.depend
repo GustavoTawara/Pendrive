@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1564539701 source:c:\users\usuario\desktop\2° ano\ed\abstracao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+
+1564539649 source:c:\users\usuario\desktop\2° ano\ed\abstracao\ponto.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"ponto.h"
+
+1564539401 c:\users\usuario\desktop\2° ano\ed\abstracao\ponto.h
+
+1565054150 source:f:\2° ano\ed\projetos\abstracao\ponto.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"ponto.h"
+
+1564539402 f:\2° ano\ed\projetos\abstracao\ponto.h
+
+1565097938 source:g:\2° ano\ed\projetos\abstracao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	<locale.h>
+
+1565097504 g:\2° ano\ed\projetos\abstracao\ponto.h
+
+1565098700 source:g:\2° ano\ed\projetos\abstracao\ponto.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	"ponto.h"
+
+1565054512 source:f:\2° ano\ed\projetos\abstracao\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ponto.h"
+	<locale.h>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1565720164 source:d:\2° ano\ed\infd2ex\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1565721306 d:\2° ano\ed\infd2ex\funcoes.h
+
+1565721294 source:d:\2° ano\ed\infd2ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1566257432 source:f:\2° ano\ed\infd2ex\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1566255630 f:\2° ano\ed\infd2ex\funcoes.h
+
+1566257484 source:f:\2° ano\ed\infd2ex\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
